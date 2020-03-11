@@ -1,0 +1,8 @@
+Created web dynamic project
+
+Convert it to maven using following steps 
+right click on project ->configure ->convert to maven project
+
+add spring mvc dependancy from following link to pom.xml
+https://mvnrepository.com/artifact/org.springframework/spring-webmvc/5.2.3.RELEASE
+

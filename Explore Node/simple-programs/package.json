@@ -1,0 +1,21 @@
+{
+  "name": "sushma-code",
+  "version": "1.0.0",
+  "description": "Exploring node modules",
+  "main": "index.js",
+  "dependencies": {
+    "dedupe": "^3.0.1",
+    "loadash": "^1.0.0",
+    "request": "^2.88.2",
+    "to-no-case": "^1.0.2",
+    "upper-case": "^2.0.1"
+  },
+  "devDependencies": {
+    "lower-case": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sushma T N",
+  "license": "ISC"
+}

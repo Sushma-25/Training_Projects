@@ -1,0 +1,59 @@
+There are three types of classes
+1.Execution: from where executio starts.
+2.Bean class:class to get and set values.
+3.Functionality class:class having methods with functionalities  create,retrieve,update,delete
+
+
+Mtah.random()-retuns decimal number from 0-0.9
+
+Functions:
+
+access_modifier non_access_modifier  return_type functionname(parameters) 
+{
+function body
+}
+non_access_modifier -
+static,final,synchronized,
+native-should not have implementation
+abstract-both method and class must be abstract 
+
+access_modifiers
+1.public
+2.private
+3.Protected
+4:Package level
+
+final keyword
+class,variables,methods
+classes cannot be inherited having the keyword final because child class may override its methods 
+final methods cannot be overridden.
+final variables cannot be reassigned
+
+static keyword-applied tomethods,variables
+static ethods are class level methods,alpamers,can be called withoud creating objects.
+can be clled any number of times.
+abstract keyword--classes,methods
+abstract keyword is assigned to unimplemened methods
+abstract clsses cannot be instantiated or create objects
+
+static Block
+Will get executed whenever object is created
+
+Assignemnt
+JDK final class names.
+JIT oompiler
+2 classes 
+
+Variables:
+local--within scope,must be intialized before using.
+
+Java Memory models
+1.stack:Stores the address of created objects ,used for function calling.
+2.heap:Stores object data.
+Object heap space:
+Eden,Survivor,Tenured
+PermGen Space:
+Integral data types:
+String is immutable object.
+
+jconsole--gives info about jvm
